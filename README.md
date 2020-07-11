@@ -7,7 +7,6 @@ Tracking, Exam and Result management, Student Fees payment and staff payroll are
 in desktop application
 
 Description
-
 Our project will be a desktop based ERP which will store all data into the oracle database. It
 helps the School administrator to implement activities such as : Students’ Admission,
 attendance, fees, exam results, staff data, leave management and payroll etc.
@@ -36,8 +35,9 @@ managed. After a particular percent actions will be taken like automatic mailing
 
 Staff Attendance and leave tracking - Here the staff attendance is tracked, if the percent is
 low the required criteria then amount will be decreased from the payroll.
+
 Exam and result Management - This module gives every details which is required to produce
-report of the exam like the name of student, subject names, max marks ,marks obtained ,all this
+report of the exam like the name of student, subject names, max marks, marks obtained, all this
 above detailed are retrieved from the above modules mentioned and combining this
 information along with addition of some information like the date and year of the exam. This
 result will be mailed to parents.
